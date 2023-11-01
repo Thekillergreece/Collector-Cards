@@ -1,74 +1,98 @@
 {
-    "GAMEPLAY_ccBearCard":{
-        "English":"Bear Team Trading Card",
-	},
-	"GAMEPLAY_ccBearCardDescription":{
-        "English":"A local team's trading card.",
+    "GAMEPLAY_ccBearCard": {
+        "English": "Bear Team Trading Card",
+        "Turkish": "Ayı Takımı Takas Kartı"
     },
-	"GAMEPLAY_ccCaptainCard":{
-        "English":"Captains Key Card",
-	},
-	"GAMEPLAY_ccCaptainCardDescription":{
-        "English":"A replica keycard for a fishing boat.",
+    "GAMEPLAY_ccBearCardDescription": {
+        "English": "A local team's trading card.",
+        "Turkish": "Yerel bir takımın takas kartı."
     },
-	"GAMEPLAY_ccConemanCard":{
-        "English":"Coneman Playing Card",
-	},
-    "GAMEPLAY_ccConemanCardDescription":{
-        "English":"A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
+    "GAMEPLAY_ccCaptainCard": {
+        "English": "Captains Key Card",
+        "Turkish": "Kaptan Anahtar Kartı"
     },
-	"GAMEPLAY_ccDarkwalkerCard":{
-        "English":"Darkwalker Playing Card",
-	},
-    "GAMEPLAY_ccDarkwalkerCardDescription":{
-        "English":"A playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+    "GAMEPLAY_ccCaptainCardDescription": {
+        "English": "A replica keycard for a fishing boat.",
+        "Turkish": "Bir balıkçı teknesi için replika bir anahtar kart."
     },
-	"GAMEPLAY_ccSmokingCard":{
-        "English":"Smoking Warning Card",
-	},
-    "GAMEPLAY_ccSmokingCardDescription":{
-        "English":"A warning card originating from a cigarette pack.",
-	},	
-    "GAMEPLAY_ccTLDevCard":{
-        "English":"TLDev Card",
-	},
-    "GAMEPLAY_ccTLDevCardDescription":{
-        "English":"A unique and autographed team card.",
-	},
-    "GAMEPLAY_ccRifleCard":{
-        "English":"Rifle Trading Card",
-	},
-    "GAMEPLAY_ccRifleCardDescription":{
-        "English":"A trading card featuring a trusty rifle. Part of the 'Armory' collection.",
-	},	
-    "GAMEPLAY_ccDarkwalkerFoilCard":{
-        "English":"Foil Darkwalker Playing Card",
-	},
-    "GAMEPLAY_ccDarkwalkerFoilCardDescription":{
-        "English":"A foil varient of a playing card featuring a legendary monster. Part of the 'Creatures' collection.",
-	},	
-    "GAMEPLAY_ccBananaCard":{
-        "English":"Banana Souvenir Card",
-	},
-    "GAMEPLAY_ccBananaCardDescription":{
-        "English":"A souvenir card originating from a special 'Banana Chip' bag.",
-	},	
-    "GAMEPLAY_ccBananaFoilCard":{
-        "English":"Foil Banana Souvenir Card",
-	},
-    "GAMEPLAY_ccBananaFoilCardDescription":{
-        "English":"A foil varient of a souvenir card originating from a special 'Banana Chip' bag.",
-	},	
-    "GAMEPLAY_ccOldBearCard":{
-        "English":"Old Bear Playing Card",
-	},
-    "GAMEPLAY_ccOldBearCardDescription":{
-        "English":"A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
-	},	
-    "GAMEPLAY_ccPumpkinSoupCard":{
-        "English":"Pumpkin Soup Souvenir Card",
-	},
-    "GAMEPLAY_ccPumpkinSoupCardDescription":{
-        "English":"A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
-	},	
+    "GAMEPLAY_ccConemanCard": {
+        "English": "Coneman Playing Card",
+        "Turkish": "Koni Adam Oyun Kartı"
+    },
+    "GAMEPLAY_ccConemanCardDescription": {
+        "English": "A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
+        "Turkish": "Trafik temalı süper kahraman içeren bir oyun kartı. 'Süper Kahramanlar' koleksiyonunun bir parçası."
+    },
+    "GAMEPLAY_ccDarkwalkerCard": {
+        "English": "Darkwalker Playing Card",
+        "Turkish": "Darkwalker Oyun Kartı"
+    },
+    "GAMEPLAY_ccDarkwalkerCardDescription": {
+        "English": "A playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+        "Turkish": "Efsanevi bir canavar içeren bir oyun kartı. 'Yaratıklar' koleksiyonunun bir parçası."
+    },
+    "GAMEPLAY_ccSmokingCard": {
+        "English": "Smoking Warning Card",
+        "Turkish": "Sigara İçme Uyarı Kartı"
+    },
+    "GAMEPLAY_ccSmokingCardDescription": {
+        "English": "A warning card originating from a cigarette pack.",
+        "Turkish": "Sigara paketinden çıkan bir uyarı kartı."
+    },
+    "GAMEPLAY_ccTLDevCard": {
+        "English": "TLDev Card",
+        "Turkish": "TL Geliştirici Kartı"
+    },
+    "GAMEPLAY_ccTLDevCardDescription": {
+        "English": "A unique and autographed team card.",
+        "Turkish": "Benzersiz ve imzalı bir takım kartı."
+    },
+    "GAMEPLAY_ccRifleCard": {
+        "English": "Rifle Trading Card",
+        "Turkish": "Tüfek Takas Kartı"
+    },
+    "GAMEPLAY_ccRifleCardDescription": {
+        "English": "A trading card featuring a trusty rifle. Part of the 'Armory' collection.",
+        "Turkish": "Güvenilir bir tüfek içeren takas kartı. 'Armory' koleksiyonunun bir parçası."
+    },
+    "GAMEPLAY_ccDarkwalkerFoilCard": {
+        "English": "Foil Darkwalker Playing Card",
+        "Turkish": "Yaldızlı Darkwalker Oyun Kartı"
+    },
+    "GAMEPLAY_ccDarkwalkerFoilCardDescription": {
+        "English": "A foil varient of a playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+        "Turkish": "Efsanevi bir canavar içeren bir oyun kartının yaldızlı çeşidi. 'Yaratıklar' koleksiyonunun bir parçası.    "
+    },
+    "GAMEPLAY_ccBananaCard": {
+        "English": "Banana Souvenir Card",
+        "Turkish": "Muz Hatıra Kartı"
+    },
+    "GAMEPLAY_ccBananaCardDescription": {
+        "English": "A souvenir card originating from a special 'Banana Chip' bag.",
+        "Turkish": "Özel bir 'Muz Cipsi' paketinden çıkan bir hatıra kartı."
+    },
+    "GAMEPLAY_ccBananaFoilCard": {
+        "English": "Foil Banana Souvenir Card",
+        "Turkish": "Yaldızlı Muz Hatıra Kartı"
+    },
+    "GAMEPLAY_ccBananaFoilCardDescription": {
+        "English": "A foil varient of a souvenir card originating from a special 'Banana Chip' bag.",
+        "Turkish": "Özel bir 'Muz Cipsi' paketinden çıkan bir hatıra kartının yaldızlı çeşidi."
+    },
+    "GAMEPLAY_ccOldBearCard": {
+        "English": "Old Bear Playing Card",
+        "Turkish": "Yaşlı Ayı Oyun Kartı"
+    },
+    "GAMEPLAY_ccOldBearCardDescription": {
+        "English": "A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
+        "Turkish": "Efsanevi bir ayının yer aldığı bir oyun kartı. 'Yaratıklar' koleksiyonunun bir parçası."
+    },
+    "GAMEPLAY_ccPumpkinSoupCard": {
+        "English": "Pumpkin Soup Souvenir Card",
+        "Turkish": "Balkabağı Çorbası Hatıra Kartı"
+    },
+    "GAMEPLAY_ccPumpkinSoupCardDescription": {
+        "English": "A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
+        "Turkish": "Özel bir 'Balkabağı Çorbası' kutusundan çıkan bir hatıra kartı. Sadece sınırlı bir süre için mevcuttur."
+    }
 }
