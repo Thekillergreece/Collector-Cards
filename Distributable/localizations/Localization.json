@@ -1,74 +1,99 @@
 {
     "GAMEPLAY_ccBearCard":{
         "English":"Bear Team Trading Card",
+	"Italian":"Carta Collezionabile della Squadra dell'Orso",
 	},
 	"GAMEPLAY_ccBearCardDescription":{
         "English":"A local team's trading card.",
+	"Italian":"Una carta collezionabile di una squadra locale.",
     },
 	"GAMEPLAY_ccCaptainCard":{
         "English":"Captains Key Card",
+	"Italian":"Chiave Magnetica del Capitano",
+		
 	},
 	"GAMEPLAY_ccCaptainCardDescription":{
         "English":"A replica keycard for a fishing boat.",
+	"Italian":"Una replica della chiave magnetica per una nave da pesca.",
     },
 	"GAMEPLAY_ccConemanCard":{
         "English":"Coneman Playing Card",
+	"Italian":"Carta da Gioco Coneman",
 	},
     "GAMEPLAY_ccConemanCardDescription":{
         "English":"A playing card featuring a traffic themed superhero. Part of the 'Superheroes' collection.",
+	"Italian":"Una carta da gioco caratterizzata da un supereroe a tema stradale. Parte della collezione 'Supereroi'.",
     },
 	"GAMEPLAY_ccDarkwalkerCard":{
         "English":"Darkwalker Playing Card",
+	"Italian":"Carta da Gioco Darkwalker",
 	},
     "GAMEPLAY_ccDarkwalkerCardDescription":{
         "English":"A playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+	"Italian":"Una carta da gioco caratterizzata da un mostro leggendario. Parte della collezione 'Creature'.",
     },
 	"GAMEPLAY_ccSmokingCard":{
         "English":"Smoking Warning Card",
+	"Italian":"Carta di Avvertimento per il Fumo",
 	},
     "GAMEPLAY_ccSmokingCardDescription":{
         "English":"A warning card originating from a cigarette pack.",
+	"Italian":"Una carta di avvertimento originario da un pacchetto di sigarette.",
 	},	
     "GAMEPLAY_ccTLDevCard":{
         "English":"TLDev Card",
+	"Italian":"Carta TLDev",
 	},
     "GAMEPLAY_ccTLDevCardDescription":{
         "English":"A unique and autographed team card.",
+	"Italian":"Una carta di un gruppo unica e autografata.",
 	},
     "GAMEPLAY_ccRifleCard":{
         "English":"Rifle Trading Card",
+	"Italian":"Carta Collezionabile del Fucile",
 	},
     "GAMEPLAY_ccRifleCardDescription":{
         "English":"A trading card featuring a trusty rifle. Part of the 'Armory' collection.",
+	"Italian":"Una carta collezionabile caratterizzata da un fucile affidabile. Parte della collezione 'Armeria'.",
 	},	
     "GAMEPLAY_ccDarkwalkerFoilCard":{
         "English":"Foil Darkwalker Playing Card",
+	"Italian":"Carta Stagnola da Gioco Darkwalker",
 	},
     "GAMEPLAY_ccDarkwalkerFoilCardDescription":{
         "English":"A foil varient of a playing card featuring a legendary monster. Part of the 'Creatures' collection.",
+	"Italian":"Una variante stagnola di una carta da gioco caratterizzata da un mostro leggendario. Parte della collezione 'Creature'.",
 	},	
     "GAMEPLAY_ccBananaCard":{
         "English":"Banana Souvenir Card",
+	"Italian":"Carta Souvenir Banana",
 	},
     "GAMEPLAY_ccBananaCardDescription":{
         "English":"A souvenir card originating from a special 'Banana Chip' bag.",
+	"Italian":"Una carta souvenir originaria dal speciale sacchetto 'Banana Chip'.",
 	},	
     "GAMEPLAY_ccBananaFoilCard":{
         "English":"Foil Banana Souvenir Card",
+	"Italian":"Carta Stagnola Souvenir Banana",
 	},
     "GAMEPLAY_ccBananaFoilCardDescription":{
         "English":"A foil varient of a souvenir card originating from a special 'Banana Chip' bag.",
+	"Italian":"Una variante stagnola della carta souvenir originaria dal sacchetto speciale  'Banana Chip'.",
 	},	
     "GAMEPLAY_ccOldBearCard":{
         "English":"Old Bear Playing Card",
+	"Italian":"Carta da Gioco Vecchio Orso",
 	},
     "GAMEPLAY_ccOldBearCardDescription":{
         "English":"A playing card featuring a legendary bear. Part of the 'Creatures' collection.",
+	"Italian":"Una carta da gioco caratterizzata da un orso leggendario. Parte della collezione 'Creature'.",
 	},	
     "GAMEPLAY_ccPumpkinSoupCard":{
         "English":"Pumpkin Soup Souvenir Card",
+	"Italian":"Carta Souvenir Zuppa di Zucca",
 	},
     "GAMEPLAY_ccPumpkinSoupCardDescription":{
         "English":"A souvenir card originating from a special 'Pumpkin Soup' can. Only available for a limited time.",
+	"Italian":"Una carta souvenir originaria dalla lattina speciale 'Zuppa di Zucca'. Solo disponibile per un breve periodo.",
 	},	
 }
